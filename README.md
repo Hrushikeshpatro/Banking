@@ -1,2 +1,2 @@
 # Banking
-this is my not first project
+this is my first project
